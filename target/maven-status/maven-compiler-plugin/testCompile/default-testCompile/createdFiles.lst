@@ -1,0 +1,14 @@
+businessComponents\loginToNaukri.class
+coreComponents\coreComponents.class
+stepDefinitions\browserLaunchDefinitions.class
+Runner\TestRunner.class
+secondParallel.class
+frameWork\webDriverManager.class
+LaunchBrowser.class
+parallelLaunch.class
+testClass.class
+businessComponents\launchBrowser.class
+multiThread.class
+Pages\NaukriPageObjects.class
+BeforeAfterMethodsTest.class
+stepDefinitions\cukeHookSteps.class
